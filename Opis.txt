@@ -1,0 +1,4 @@
+Cilj zadatka je da simulira fudbalski kup. Treba kreirati ligu koja se sastoji od timova. Svaki tim se sastoji od 11 
+igraca i osoblja. Svaki igrac ima svoje ocjene. Liga  se simulira na nacin da uvijek igraju zadnji i prvi tim.
+Uveli smo i koeficijent srece koji je neki random faktor pomnozen sa ocjenama. Tim koji izgubi, izbacujemo iz lige 
+i nastavljamo igrati sve dok ne ostane jedan tim.
